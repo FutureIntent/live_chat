@@ -1,0 +1,3 @@
+
+//database imitation
+let users = [];

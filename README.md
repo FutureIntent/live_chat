@@ -11,7 +11,7 @@ Locate root directory in terminal, e.g. `cd live_chat` then use following comman
 ### `npm install`
 ### `npm start`
 
-### Change !! fetching !! URLs in './live_chat/src/pages' if needed
+Change !! fetching !! URLs in './live_chat/src/pages' if needed
 
 ## Back-end
 

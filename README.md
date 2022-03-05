@@ -14,7 +14,7 @@ Locate root directory in terminal, e.g. `cd live_chat` then use following comman
 ### `npm install`
 ### `npm start`
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser. (change !! fetching !! URLs in './live_chat/src/pages' if needed)
+### Change !! fetching !! URLs in './live_chat/src/pages' if needed
 
 ## Back-end
 
@@ -26,3 +26,9 @@ Locate './live_chat/back_end' directory through terminal. If needed, customise '
 
 Default back-end's URL should be [http://localhost:3001](http://localhost:3001) \
 Web Socket's default URL should be [wss://localhost:3003](wss://localhost:3003)
+
+## Instruction
+
+1. Proceed to [http://localhost:3000/](http://localhost:3000/) to view authorisation page in the browser.\
+2. Proceed to [http://localhost:3000/chat](http://localhost:3000/chat) ONLY after authorisation process to be allowed to send messages to the server, otherwise, server will reject socket connection.\
+3. Repeat process in few browser tabs simultaneously to see full result.

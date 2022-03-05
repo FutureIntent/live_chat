@@ -1,6 +1,7 @@
 # About
 
-Live chat application's prototype made with the use of Node.js, React.js, Express.js, Session-Cookie, Web Socket('ws') for demonstration purpose.\
+Live chat application's prototype made with the use of Node.js, React.js, Express.js, Session-Cookie, Web Socket('ws') for demonstration purpose.
+
 The idea is to send real time messages on the web socket server and broadcast these messages among all web socket clients, showing their nicknames and messages in the browser's console. 
 
 ## Front-end

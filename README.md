@@ -14,7 +14,7 @@ Locate root directory in terminal, e.g. `cd live_chat` then use following comman
 ### `npm install`
 ### `npm start`
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser. (change fetching URLs in './live_chat/src/pages' if needed)
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser. (change !fetching! URLs in './live_chat/src/pages' if needed)
 
 ## Back-end
 
